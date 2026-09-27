@@ -10,6 +10,8 @@ This project describes a provider-neutral way to think about AI-assisted small-b
 - [Architecture](architecture.md) — conceptual system flow, component roles, and trust boundaries.
 - [Glossary](glossary.md) — plain-language meanings for recurring terms.
 - [Example workflows](workflows/README.md) — illustrative service-request intake and appointment scheduling/change examples.
+- [Verify the work](verify-work.md) — define acceptance criteria, check evidence, and report uncertainty safely.
+- [Task acceptance checklist](../templates/task-acceptance-checklist.md) — copyable before-action and after-action record.
 
 ## Reference layers
 
