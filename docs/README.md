@@ -11,6 +11,8 @@ This project describes a provider-neutral way to think about AI-assisted small-b
 - [Glossary](glossary.md) — plain-language meanings for recurring terms.
 - [Example workflows](workflows/README.md) — illustrative service-request intake and appointment scheduling/change examples.
 - [Verify the work](verify-work.md) — define acceptance criteria, check evidence, and report uncertainty safely.
+- [Privacy and safety](privacy-and-safety.md) — public information boundaries, data flows, permissions, and safe verification.
+- [Maintenance and support scope](maintenance.md) — lightweight documentation review and upstream support boundaries.
 - [Task acceptance checklist](../templates/task-acceptance-checklist.md) — copyable before-action and after-action record.
 
 ## Reference layers
