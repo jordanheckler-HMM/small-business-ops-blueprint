@@ -1,0 +1,20 @@
+# Illustrative only — this is not a working or deployable configuration.
+# Angle-bracket values are placeholders, not valid commands, hosts, URLs,
+# credentials, or server settings. Replace nothing until you have selected
+# and vetted a specific server and checked its current upstream documentation.
+# No secrets are included or should be committed.
+
+mcpServers:
+  example-stdio:
+    # Illustrative local-process shape; this is not an actual executable.
+    transport: stdio
+    command: "<choose-and-vet-a-server-command>"
+    args:
+      - "<illustrative-argument>"
+
+  example-http:
+    # Illustrative remote shape; this is not a real hostname or endpoint.
+    transport: http
+    url: "<https://replace-with-a-vetted-server-host-and-path>"
+    # Authentication intentionally omitted. Configure it only by following
+    # the selected server's documented secure method; never commit secrets.
