@@ -1,6 +1,6 @@
 # Reference architecture
 
-This page adds a system-level view to the [plain-language Start Here guide](start-here.md). It describes roles, boundaries, and a representative flow—not a ready-to-install system.
+This page adds a system-level view to the [plain-language Start Here guide](start-here.md). It describes roles, boundaries, and a representative flow—not a ready-to-install system. The local-memory wrapper named in the reference is private and is not distributed here; Mem0 is an open-source foundation only, not a drop-in replacement.
 
 ## Plain-language view
 

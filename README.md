@@ -9,7 +9,7 @@ This initial version contains documentation only. It does not provide a tested s
 The reference architecture describes three complementary layers:
 
 - **Assistant/orchestration:** Hermes as an example of an agent interface and workflow coordinator.
-- **Local memory:** local-memory as an example of user-controlled persistence for useful context.
+- **Local memory:** the reference architecture names a private local-memory wrapper as an example of persistence, but that wrapper is not distributed here. [Mem0](https://github.com/mem0ai/mem0) is linked as an open-source foundation only—not as the same wrapper or a drop-in component.
 - **Knowledge/context:** GBrain as an example of a knowledge layer for organizing and retrieving information.
 
 These are reference examples, not requirements. The blueprint aims to keep the operating principles provider-neutral and to distinguish concepts from any particular implementation.

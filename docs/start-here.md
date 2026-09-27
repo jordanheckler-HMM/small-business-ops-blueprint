@@ -36,9 +36,13 @@ Start with one narrow, recurring task—not “automate the business.” Write d
 
 Use the [glossary](glossary.md) for terms such as orchestration, local memory, and task verification.
 
+## A safe first step you can do today
+
+Without installing anything or opening GitHub, pick one low-risk, recurring task and sketch its current steps on paper. Use fictional names and example details only. Note where a person makes decisions, what could go wrong, and how you would check the result. Stop before connecting an account, entering real customer/employee/business information, granting permissions, sending messages, changing records, or spending money. Those steps need a separately reviewed implementation and appropriate technical safeguards; this guide does not provide one.
+
 ## When you need technical help
 
-You can make the business decisions first: choose a task, describe the current process, identify risks, and say what a good result looks like. Involve a developer before connecting accounts or business data, granting permissions, storing sensitive information, or allowing a system to send messages, change records, or spend money. Ask for technical and security review when access, privacy, reliability, or recovery from mistakes is unclear. Do not treat this documentation as setup instructions.
+You can make the business decisions first: choose a task, describe the current process, identify risks, and say what a good result looks like. The safe paper exercise above is a useful first step. Involve a developer before connecting accounts or business data, granting permissions, storing sensitive information, or allowing a system to send messages, change records, or spend money. Ask for technical and security review when access, privacy, reliability, or recovery from mistakes is unclear. Do not treat this documentation as setup instructions.
 
 ## Developer handoff
 
