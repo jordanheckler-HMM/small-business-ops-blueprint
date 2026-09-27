@@ -9,6 +9,7 @@ This project describes a provider-neutral way to think about AI-assisted small-b
 - [Start here](start-here.md) — beginner-first orientation and developer handoff.
 - [Architecture](architecture.md) — conceptual system flow, component roles, and trust boundaries.
 - [Glossary](glossary.md) — plain-language meanings for recurring terms.
+- [Example workflows](workflows/README.md) — illustrative service-request intake and appointment scheduling/change examples.
 
 ## Reference layers
 
