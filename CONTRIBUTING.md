@@ -2,6 +2,8 @@
 
 Contributions that make this blueprint clearer, safer, or more useful are welcome. You do not need to know GitHub or Git to understand the documentation or suggest an improvement. You can describe a correction or question in an issue, or propose an edit if you are comfortable doing so.
 
+By submitting original documentation, you offer that contribution under CC BY 4.0 while retaining rights in your original work. Submit original documentation only if you are able to offer it under those terms; see [LICENSE](LICENSE).
+
 ## Helpful contributions
 
 - Explain an unclear term in plain language.

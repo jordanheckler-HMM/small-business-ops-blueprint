@@ -16,7 +16,7 @@ These are reference examples, not requirements. The blueprint aims to keep the o
 
 ## Start here
 
-- [Documentation index](docs/README.md)
+- [Documentation overview](docs/README.md)
 - [Glossary](docs/glossary.md)
 - [Contributing](CONTRIBUTING.md)
 - [Security and responsible reporting](SECURITY.md)

@@ -8,6 +8,6 @@ Do not put credentials, access tokens, private profiles, customer or employee da
 
 ## Reporting a security concern
 
-For a suspected vulnerability or accidental disclosure involving this project, avoid posting exploit details or sensitive material in a public issue. Use GitHub's private vulnerability reporting for this repository if available. Otherwise, contact the repository owner through a private GitHub channel and share only the minimum details needed to investigate. Do not send secrets or real customer data.
+Private vulnerability reporting is not currently configured for this repository. Do not include sensitive details, exploit specifics, secrets, or real customer data in a public issue. If you need to report a concern, first check whether GitHub offers a private reporting option for this repository; if not, do not disclose sensitive details publicly. You may use a public issue only for a non-sensitive description or request for a private reporting route, without exploit details or confidential information.
 
 This guidance does not replace the security policies of upstream projects. Report concerns about an upstream tool through that project's own official security channel.
