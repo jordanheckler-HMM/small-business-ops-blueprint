@@ -18,8 +18,9 @@ These are reference examples, not requirements. The blueprint aims to keep the o
 
 New to this topic? Begin with the [plain-language Start Here guide](docs/start-here.md). It explains what this documentation is (and is not), the basic concepts, and how to brief a developer. This project is documentation-only; no installation or setup is proven.
 
+Other pages:
+
 - [Documentation overview](docs/README.md)
-- [Start Here guide](docs/start-here.md)
 - [Glossary](docs/glossary.md)
 - [Contributing](CONTRIBUTING.md)
 - [Security and responsible reporting](SECURITY.md)

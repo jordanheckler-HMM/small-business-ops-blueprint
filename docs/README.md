@@ -1,5 +1,7 @@
 # Documentation
 
+New here? Start with the [plain-language Start Here guide](start-here.md).
+
 This project describes a provider-neutral way to think about AI-assisted small-business operations. The initial public version is docs-first: it is an orientation and vocabulary, not a tested installation guide or a working product.
 
 ## Pages

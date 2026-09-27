@@ -1,5 +1,7 @@
 # Glossary
 
+New here? Start with the [plain-language Start Here guide](start-here.md).
+
 These are working definitions for this blueprint, not claims about any particular product's capabilities.
 
 - **AI assistant:** A user-facing system that helps interpret requests and produce responses or take permitted actions.
